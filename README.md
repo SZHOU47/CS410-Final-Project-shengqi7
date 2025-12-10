@@ -64,13 +64,16 @@ On the first run, the script will:
   
 On later runs, if preprocessed_corpus and complaints_index already exist, the script will reuse them and skip rebuilding.
 
-Running the Tool on Windows:
+## Running the software on Windows:
 
-From the home/[your username] folder (where your script lives):
+Ensure your dataset is placed under the data folder and the data folder is in the same place as the python file:
 
-Ensure your dataset is placed under the data folder, then run:
+First run:
+```
+conda activate pyserini
+```
 
-Run: 
+Then run to start the software: 
 ```
 python project.py
 ```
