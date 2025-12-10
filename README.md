@@ -38,5 +38,5 @@ Running the Tool on Windows
 From the project folder (where your script lives):
 Run: 
 ```
-Python project.py
+python project.py
 ```
