@@ -6,10 +6,10 @@
 
 The script has two interactive parts:
 
-```
-•	Query-based word association discovery (Part 1)
-•	Complaint topic trends over time (Part 2)
-```
+
+*	Query-based word association discovery (Part 1)
+*	Complaint topic trends over time (Part 2)
+
 
 Everything is handled by a single script - project.py
 For windows user:
