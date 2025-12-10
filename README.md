@@ -29,6 +29,12 @@ For windows user:
   tqdm
   ```
 
+Run:
+
+```
+python -r requirements.txt
+```
+
 On the first run, the script will:
 
 * Create a search corpus : .\data\search_corpus.tsv
