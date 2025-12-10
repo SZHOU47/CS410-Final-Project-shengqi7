@@ -16,7 +16,7 @@ Everything is handled by a single script:
 project.py
 ```
 For windows user:
-*	You will need to have Python, Pyserini, Ubuntu, and WSL installed on your laptop to be able to run the program.
+*	You will need to have Python, Pyserini, Ubuntu, and WSL installed on your windows laptop to be able to run the program.
 *	Data/Folder Setup - Put the CFPB complaints csv data in the home/[your username] folder under a data folder, and leave the project.py and requirements.txt in the home/[your username] folder
 *	Ensure the following packages are installed by running requirements.txt:
 
