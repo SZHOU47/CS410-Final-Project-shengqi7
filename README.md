@@ -69,12 +69,12 @@ On later runs, if preprocessed_corpus and complaints_index already exist, the sc
 
 Ensure your dataset is placed under the data folder and the data folder is in the same place as the python file:
 
-First run:
+1. First run:
 ```
 conda activate pyserini
 ```
 
-Then run to start the software: 
+2. Then run to start the software: 
 ```
 python project.py
 ```
@@ -89,7 +89,7 @@ A message saying you’ll run Part 1 (query-based word association), then Part 2
 <img width="406" height="143" alt="image" src="https://github.com/user-attachments/assets/51b37ffa-86f7-4cf2-8c5a-6574a53cc4c5" />
 
 
-In Part 1:
+* In Part 1:
 
 You will be asked to enter the words you want to search and an optional year filter:
 
@@ -98,7 +98,7 @@ For example:
 <img width="405" height="74" alt="image" src="https://github.com/user-attachments/assets/0a9e8fec-946e-4241-8a77-79033b3cba8e" />
 
 
-In Part 2:
+* In Part 2:
 
 You will be asked to enter the start date and end date for the desired date range, and you will be asked to enter an optional company/bank filter, and at last, a number of topics to plot filter:
 
