@@ -38,7 +38,7 @@ For windows user:
 
       https://docs.anaconda.com/anaconda/install/linux/
   
-*	Data/Folder Setup - In the Linux/Ubuntu environment, put the CFPB complaints csv data in the home/[your username]/data folder, and leave the project.py and requirements.txt in the home/[your username] folder
+*	Data/Folder Setup - In the Linux/Ubuntu environment, put the complaints_data.csv data in the home/[your username]/data folder, and leave the project.py and requirements.txt in the home/[your username] folder
   
 *	Ensure the following packages are installed by running requirements.txt:
 
