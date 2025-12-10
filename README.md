@@ -26,17 +26,17 @@ project.py
 For windows user:
 *	You will need to have Python, Pyserini, Ubuntu, and WSL installed on your windows laptop to be able to run the program.
 
-Follow this link to install WSL: 
+   1. Follow this link to install WSL: 
 
-https://learn.microsoft.com/en-us/windows/wsl/install
+      https://learn.microsoft.com/en-us/windows/wsl/install
 
-Follow this link to install pyserini:
+   2. Follow this link to install pyserini:
 
-https://github.com/castorini/pyserini/blob/master/docs/installation.md#pypi-installation-walkthrough
+      https://github.com/castorini/pyserini/blob/master/docs/installation.md#pypi-installation-walkthrough
 
-Follow this link to install Anaconda:
+   3. Follow this link to install Anaconda:
 
-https://docs.anaconda.com/anaconda/install/linux/
+      https://docs.anaconda.com/anaconda/install/linux/
   
 *	Data/Folder Setup - Put the CFPB complaints csv data in the home/[your username]/data folder, and leave the project.py and requirements.txt in the home/[your username] folder
 *	Ensure the following packages are installed by running requirements.txt:
