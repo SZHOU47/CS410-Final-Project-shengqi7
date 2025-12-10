@@ -95,7 +95,7 @@ You will be asked to enter the words you want to search and an optional year fil
 
 For example:
 
-<img width="405" height="74" alt="image" src="https://github.com/user-attachments/assets/0a9e8fec-946e-4241-8a77-79033b3cba8e" />
+<img width="410" height="473" alt="image" src="https://github.com/user-attachments/assets/02bcb8bf-e479-496e-a115-989bc1cdc682" />
 
 
 * In Part 2:
