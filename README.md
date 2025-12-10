@@ -85,9 +85,7 @@ A banner: FINANCIAL COMPLAINTS EXPLORER
 
 A message saying you’ll run Part 1 (query-based word association), then Part 2 (topic trends).
 
-
 <img width="406" height="143" alt="image" src="https://github.com/user-attachments/assets/51b37ffa-86f7-4cf2-8c5a-6574a53cc4c5" />
-
 
 * In Part 1:
 
@@ -97,14 +95,13 @@ For example:
 
 <img width="410" height="473" alt="image" src="https://github.com/user-attachments/assets/02bcb8bf-e479-496e-a115-989bc1cdc682" />
 
-
 * In Part 2:
 
 You will be asked to enter the start date and end date for the desired date range, and you will be asked to enter an optional company/bank filter, and at last, a number of topics to plot filter:
 
 For example:
 
-<img width="573" height="111" alt="image" src="https://github.com/user-attachments/assets/c85f35f5-ef85-4bd4-b8bb-5a86b0cd6cd5" />
+<img width="565" height="507" alt="image" src="https://github.com/user-attachments/assets/7f1ef390-0e8a-4d0b-9d3d-d8daf9e73cdd" />
 
 At the end, a windows with chart of showing monthly trends would pop up:
 
