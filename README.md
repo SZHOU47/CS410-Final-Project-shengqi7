@@ -39,6 +39,8 @@ On later runs, if preprocessed_corpus and complaints_index already exist, the sc
 
 Running the Tool on Windows:
 From the home/[your username] folder (where your script lives):
+Ensure your dataset is placed under the data folder, then run:
+
 Run: 
 ```
 python project.py
