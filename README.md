@@ -1,7 +1,8 @@
 # CS410-Final-Project-shengqi7
 
-Financial Complaints Explorer – Windows User Setup & Usage
-This tool is a command-line Python app for exploring CFPB consumer complaint narratives.
+# Financial Complaints Explorer – Windows User Setup & Usage
+
+## This tool is a command-line Python app for exploring CFPB consumer complaint narratives.
 The script has two interactive parts:
 •	Query-based word association discovery (Part 1)
 •	Complaint topic trends over time (Part 2)
