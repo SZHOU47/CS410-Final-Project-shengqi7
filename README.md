@@ -7,8 +7,16 @@
 The script has two interactive parts:
 
 
-*	Query-based word association discovery (Part 1)
-*	Complaint topic trends over time (Part 2)
+1. **Query-based word association (Part 1)**  
+   - You type a search query (e.g., `identity theft`).  
+   - The tool retrieves the most relevant complaints using **BM25 + RM3** (via Pyserini).  
+   - It then mines **key phrases** that frequently co-occur with your query in those complaints.  
+   - Finally, it prints the **top retrieved complaints** with metadata and nicely formatted narratives.
+
+2. **Complaint topics trends over time (Part 2)**  
+   - You choose a date range and optional company filter.  
+   - The tool discovers **topic-like phrases** across all complaints in that slice.  
+   - Then it builds a **monthly trend table** and **line chart** showing how often each phrase appears over time.
 
 
 Everything is handled by a single script:
@@ -17,6 +25,19 @@ project.py
 ```
 For windows user:
 *	You will need to have Python, Pyserini, Ubuntu, and WSL installed on your windows laptop to be able to run the program.
+
+Follow this link to install WSL: 
+
+https://learn.microsoft.com/en-us/windows/wsl/install
+
+Follow this link to install pyserini:
+
+https://github.com/castorini/pyserini/blob/master/docs/installation.md#pypi-installation-walkthrough
+
+Follow this link to install Anaconda:
+
+https://docs.anaconda.com/anaconda/install/linux/
+  
 *	Data/Folder Setup - Put the CFPB complaints csv data in the home/[your username]/data folder, and leave the project.py and requirements.txt in the home/[your username] folder
 *	Ensure the following packages are installed by running requirements.txt:
 
@@ -53,3 +74,15 @@ Run:
 ```
 python project.py
 ```
+
+
+
+
+
+
+
+
+
+
+
+
