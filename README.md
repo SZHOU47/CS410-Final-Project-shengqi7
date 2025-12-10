@@ -1,6 +1,6 @@
 # CS410-Final-Project-shengqi7
 
-# Financial Complaints Explorer – Windows User Setup & Usage
+# Emerging Financial Complaints Radar – Windows User Setup & Usage
 
 ## This tool is a command-line Python app for exploring CFPB consumer complaint narratives.
 
@@ -34,8 +34,8 @@ On the first run, the script will:
   
 On later runs, if preprocessed_corpus and complaints_index already exist, the script will reuse them and skip rebuilding.
 
-Running the Tool on Windows
-From the project folder (where your script lives):
+Running the Tool on Windows:
+From the home/[your username] folder (where your script lives):
 Run: 
 ```
 python project.py
