@@ -79,6 +79,16 @@ Then run to start the software:
 python project.py
 ```
 
+The program takes few seconds to load and on startup you’ll see:
+
+A banner: FINANCIAL COMPLAINTS EXPLORER
+
+A message saying you’ll run Part 1 (query-based word association), then Part 2 (topic trends).
+
+
+<img width="406" height="143" alt="image" src="https://github.com/user-attachments/assets/51b37ffa-86f7-4cf2-8c5a-6574a53cc4c5" />
+
+
 
 
 
